@@ -38,6 +38,9 @@ This documentation outlines the steps and practices followed during the full dec
 ![Network-Rack-2](https://github.com/user-attachments/assets/9229b8d4-ec0f-45bd-842b-0e6cd368c665)
 
 
+![Servers-2](https://github.com/user-attachments/assets/236031ed-1ee3-4d16-baa1-4819441375ad)
+
+
 
 ### 4. Packaging
 - Wrapped items with bubble wrap
