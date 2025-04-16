@@ -25,15 +25,31 @@ This documentation outlines the steps and practices followed during the full dec
 - Removed power/network cables
 - Confirmed systems offline before removal
 
+  
+![Network-Rack](https://github.com/user-attachments/assets/02226f78-6da5-47ec-8801-157d4be70432)
+
+
 ### 3. Hardware Removal
 - Logical rack-by-rack removal
 - Extracted optics and sensitive parts
 - Reusable parts separated from scrap
 
+
+![Network-Rack-2](https://github.com/user-attachments/assets/9229b8d4-ec0f-45bd-842b-0e6cd368c665)
+
+
+
 ### 4. Packaging
 - Wrapped items with bubble wrap
 - Grouped and labeled by cabinet/rack
 - Placed on pallets for transport
+
+
+![Servers](https://github.com/user-attachments/assets/e6e4bdd3-b994-4217-ae70-6efdb6e3d763)
+
+![Servers-packaged](https://github.com/user-attachments/assets/5edc37f2-4597-4e05-92f4-dfdef10d8719)
+
+  
 
 ### 5. Documentation
 - Logged devices in SmartSheet (serial numbers, chassis numbers, origin, type, labels)
@@ -47,6 +63,9 @@ This documentation outlines the steps and practices followed during the full dec
 - Site cleared
 - All pallets are labeled and stored 
 - Area handed to the logistics team for shipment
+
+![Packaged on pallet](https://github.com/user-attachments/assets/ea021be2-f844-4a88-9f19-e8dcc427167c)
+
 
 ---
 
